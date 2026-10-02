@@ -1,0 +1,7 @@
+{
+  "version": "1.2.1",
+  "build": 4,
+  "changelog": "修复更新检测",
+  "downloadUrl": "https://github.com/guilinggao-jpt/guilinggao2-update/releases/download/v1.2.1/app-debug.apk",
+  "forceUpdate": false
+}
