@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "build": 6,
-  "changelog": "修复更新下载方式\nAPK 现在在 App 内直接下载",
-  "downloadUrl": "https://github.com/guilinggao-jpt/guilinggao2-update/releases/download/v1.2.3/app-debug.apk",
+  "version": "1.2.4",
+  "build": 7,
+  "changelog": "修复更新下载\n使用系统浏览器下载APK",
+  "downloadUrl": "https://github.com/guilinggao-jpt/guilinggao2-update/releases/download/v1.2.4/app-debug.apk",
   "forceUpdate": false
 }
